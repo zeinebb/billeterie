@@ -26,7 +26,7 @@ class DefaultController extends Controller
     {
         return $this->render('AppBundle:default:home.html.twig');
     }
-    
+    //this is for posts
     
      /**
      * @Route("/post", name="post")
